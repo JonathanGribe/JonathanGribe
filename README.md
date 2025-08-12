@@ -12,6 +12,8 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+- **[Powershell]
+
 <hr/>
 
 ## 🤳 Connect With Me

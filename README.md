@@ -11,9 +11,11 @@
 ## 🚨 Threat Hunting and Security Operation
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **Incident Response - Linux
+- **Incident Response - Windows Host Recon
 
 ## Powershell Projects
-** Limited Storage on C drive
+** Limited Storage on C drive **
 
 <hr/>
 

@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/JonathanGribe/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operation
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 

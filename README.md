@@ -11,12 +11,12 @@
 ## 🚨 Threat Hunting and Security Operation
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-- **Incident Response - Linux
-- **Incident Response - Windows Host Recon
+- **[Threat Hunting Scenario (PII Exfiltration)](https://github.com/JonathanGribe/ThreatHuntingScenario_PIIExfiltration)**
+- **[Threat Hunting Scenario - "The Notepad Updater"](https://github.com/JonathanGribe/ThreatHuntingScenario_HostRecon)**
+  
 
 ## Powershell Projects
-** Limited Storage on C drive **
-
+** [Limited Space Checker](https://github.com/JonathanGribe/Powershell-Projects/blob/main/limitedspacechecker.md)**
 <hr/>
 
 ## 🤳 Connect With Me

@@ -15,12 +15,10 @@
 - **[Threat Hunting Scenario - "The Notepad Updater"](https://github.com/JonathanGribe/ThreatHuntingScenario_HostRecon)**
   
 
-## Powershell Projects
-** [Limited Space Checker](https://github.com/JonathanGribe/Powershell-Projects/blob/main/limitedspacechecker.md)**
-<hr/>
-
 ## Technical Documentation
 **Webserver with Windows Datacenter 2022**
+**Static Webpage - Azure**
+**QuickStart Guide for Prompt Engineering**
 
 ## 🤳 Connect With Me
 

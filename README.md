@@ -17,6 +17,8 @@
 
 ## Technical Documentation
 **Webserver with Windows Datacenter 2022**
+**Static Webpage with Azure**
+**Quick Start Guide for Prompt Engineering**
 
 **Static Webpage - Azure**
 

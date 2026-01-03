@@ -14,7 +14,7 @@
 - **[Threat Hunting Scenario (PII Exfiltration)](https://github.com/JonathanGribe/ThreatHuntingScenario_PIIExfiltration)**
 - **[Threat Hunting Scenario - "The Notepad Updater"](https://github.com/JonathanGribe/ThreatHuntingScenario_HostRecon)**
   
-### Active Directory
+### 🔔 Active Directory
 
 ## 2. Technical Documentation
 - **Webserver with Windows Datacenter 2022**

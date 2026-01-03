@@ -2,20 +2,20 @@
 
 
 
-
-## ⚠️ Vulnerability Management Projects
+## 1. Infrastructure and Cybersecurity
+### ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JonathanGribe/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operation
+### 🚨 Threat Hunting and Security Operation
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (PII Exfiltration)](https://github.com/JonathanGribe/ThreatHuntingScenario_PIIExfiltration)**
 - **[Threat Hunting Scenario - "The Notepad Updater"](https://github.com/JonathanGribe/ThreatHuntingScenario_HostRecon)**
   
 
-## Technical Documentation
+## 2. Technical Documentation
 **Webserver with Windows Datacenter 2022**
 
 **Static Webpage - Azure**

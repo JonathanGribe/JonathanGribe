@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan Gribes</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 
-
 ## 1. Infrastructure and Cybersecurity
 ### ⚠️ Vulnerability Management Projects
 

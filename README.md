@@ -16,11 +16,11 @@
   
 
 ## 2. Technical Documentation
-**Webserver with Windows Datacenter 2022**
+- **Webserver with Windows Datacenter 2022**
 
 **Static Webpage - Azure**
 
-**QuickStart Guide for Prompt Engineering**
+- **[Quick Start Guide - AI basics](https://github.com/JonathanGribe/Technical-Documentation/blob/main/quick_start_guides/draft_Quick%20Start%20Guide_Prompt%20Engineering_Basics_test.pdf)**
 
 ## 🤳 Connect With Me
 

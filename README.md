@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan Gribes</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan Gribes</a>'s Tech Portfolio 🔐
 
 
 
@@ -15,6 +15,7 @@
 - **[Threat Hunting Scenario - "The Notepad Updater"](https://github.com/JonathanGribe/ThreatHuntingScenario_HostRecon)**
   
 ### 🔔 Active Directory
+- **[Windows Server Essential Environment](https://github.com/JonathanGribe/Azure-Active-Directory)**
 
 ## 2. Technical Documentation
 - **Webserver with Windows Datacenter 2022**

@@ -1,9 +1,9 @@
-# <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan Gribes</a>'s Tech Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan</a>'s Tech Portfolio 🔐
 
 
 
-## 1. Infrastructure and Cybersecurity
-### ⚠️ Vulnerability Management Projects
+## 1. Cyber Range Projects
+### ⚠️ Vulnerability Management 
 
 - **[Vulnerability Management Program Implementation](https://github.com/JonathanGribe/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
@@ -14,15 +14,11 @@
 - **[Threat Hunting Scenario (PII Exfiltration)](https://github.com/JonathanGribe/ThreatHuntingScenario_PIIExfiltration)**
 - **[Threat Hunting Scenario - "The Notepad Updater"](https://github.com/JonathanGribe/ThreatHuntingScenario_HostRecon)**
   
-### 🔔 Active Directory
+### 2. Active Directory
 - **[Windows Server Essential Environment](https://github.com/JonathanGribe/Azure-Active-Directory)**
 
-## 2. Technical Documentation
-- **Webserver with Windows Datacenter 2022**
 
-**Static Webpage - Azure**
 
-- **[Quick Start Guide - AI basics](https://github.com/JonathanGribe/Technical-Documentation/blob/main/quick_start_guides/draft_Quick%20Start%20Guide_Prompt%20Engineering_Basics_test.pdf)**
 
 ## 🤳 Connect With Me
 

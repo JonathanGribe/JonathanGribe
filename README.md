@@ -20,10 +20,13 @@ IT Professional with a broad range of experience but focused on Identity & Acces
 
 ## 3. Powershell
 
-## 4. Skills
+## 4. Technical Writing
+Link to Journo Portfolio
+
+## 5. Skills
 AD • Entra ID • PowerShell • Python • Azure Log Analytics • SIEM • Vulnerability Management
 
-## 5. Tool Familiarity
+## 6. Tool Familiarity
 
 ## 📫 Contact
 You can contact me through my LinkedIn:

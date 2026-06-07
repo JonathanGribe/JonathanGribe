@@ -6,6 +6,7 @@ IT Professional with a broad range of experience but focused on Identity & Acces
 ### ⚠️ Vulnerability Management 
 
 - **[Vulnerability Management Program Implementation](https://github.com/JonathanGribe/vulnerability-management-program)**
+   Built a structured vulnerability management workflow using Tenable data and PowerShell automation.
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ### 🚨 Threat Hunting and Security Operation
@@ -18,6 +19,9 @@ IT Professional with a broad range of experience but focused on Identity & Acces
 - **[Windows Server Essential Environment](https://github.com/JonathanGribe/Azure-Active-Directory)**
 
 ## 3. Powershell
+
+## 4. Skills
+AD • Entra ID • PowerShell • Python • Azure Log Analytics • SIEM • Vulnerability Management
 
 
 ## 📫 Contact

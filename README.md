@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan</a>'s Tech Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan</a>'s  Portfolio 🔐
 IT Professional with a broad range of experience but focused on Identity & Access Management, Active Directory, and security automation. This portfolio highlights my hands‑on defensive work and technical projects.
 
 

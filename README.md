@@ -17,7 +17,7 @@ IT Professional with a broad range of experience but focused on Identity & Acces
 - **[Threat Hunting Scenario - "The Notepad Updater"](https://github.com/JonathanGribe/ThreatHuntingScenario_HostRecon)**
   
 ## 2. Active Directory
-- **[Windows Server Essential Environment](https://github.com/JonathanGribe/Azure-Active-Directory)**
+- **[Windows Server Basic Environment Project](https://github.com/JonathanGribe/Azure-Active-Directory)**
 
 
 ## 3. Powershell

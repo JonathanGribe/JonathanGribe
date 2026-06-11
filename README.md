@@ -6,7 +6,9 @@ IT Professional with a broad range of experience but focused on Identity & Acces
 ### ⚠️ Vulnerability Management 
 
 - **[Vulnerability Management Program Implementation](https://github.com/JonathanGribe/vulnerability-management/blob/main/VulnerabilityManagementProject/vulnerability_management_program.md)**
-   Built a structured vulnerability management workflow using Tenable data and PowerShell automation.
+  
+   --Built a structured vulnerability management workflow using Tenable data and PowerShell automation.
+   
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/JonathanGribe/vulnerability-management/blob/main/ProgrammaticRemediation/vulnerabilityRemediation_powershell.md)**
 - **[Stig Remediations](https://github.com/JonathanGribe/STIGS)**
 

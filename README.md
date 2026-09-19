@@ -2,13 +2,6 @@
 IT professional building toward Identity & Access Management, with hands-on experience in Entra ID, Active Directory, Microsoft 365, Azure, and enterprise technical support. This portfolio documents identity labs, Windows infrastructure projects, automation, and technical documentation.
 
 
-
-# Jonathan's IT & IAM Portfolio 🔐
-
-IT professional focused on Identity & Access Management, Active Directory,
-Microsoft Entra ID, and identity automation. This portfolio highlights hands-on
-identity labs, Windows infrastructure projects, automation, and technical documentation.
-
 ---
 
 ## 1. Identity & Access Management

@@ -17,7 +17,7 @@ security, and employee lifecycle processes.
 
 ## 2. Active Directory
 
-### [Active Directory Identity Lab]
+### [Active Directory Identity Lab](https://github.com/JonathanGribe/Azure-Active-Directory/blob/main/README.md)
 
 
 **Project description:**  

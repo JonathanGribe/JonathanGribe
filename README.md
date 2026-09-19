@@ -13,17 +13,6 @@ Designed a fictional Microsoft Entra ID environment for a game development
 company to practice cloud identity administration, access management, identity
 security, and employee lifecycle processes.
 
-**Core skills and concepts:**
-- Identity lifecycle management and JML workflows
-- Group-based access and role administration
-- MFA and Conditional Access
-- Identity governance and least privilege
-- Entra ID architecture and documentation
-
-**Skills learned and tools used:**  
-Microsoft Entra ID • Microsoft 365 • Conditional Access • MFA • Dynamic Groups
-• RBAC • CSV Provisioning • Identity Lifecycle Management • Architecture Diagrams
-
 ---
 
 ## 2. Active Directory

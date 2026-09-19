@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan's IT Portfolio🔐
 IT professional building toward Identity & Access Management, with hands-on experience in Entra ID, Active Directory, Microsoft 365, Azure, and enterprise technical support. This portfolio documents identity labs, Windows infrastructure projects, automation, and technical documentation.
 
-Listed below are various projects I have been working on to help my understanding of the field.
+#### Listed below are various projects I have been working on to help my understanding of the field.
 ---
 
 ## 1. Identity & Access Management

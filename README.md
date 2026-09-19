@@ -1,36 +1,237 @@
-# <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan</a>'s  Portfolio 🔐
-IT Professional with a broad range of experience but focused on Identity & Access Management, Active Directory, and security automation. This portfolio highlights my hands‑on defensive work and technical projects.
+# <a href="https://www.linkedin.com/in/jonathan-g-691338185/">Jonathan's IT Portfolio🔐
+IT professional building toward Identity & Access Management, with hands-on experience in Entra ID, Active Directory, Microsoft 365, Azure, and enterprise technical support. This portfolio documents identity labs, Windows infrastructure projects, automation, and technical documentation.
 
 
-## 1. Cyber Range Projects
-### ⚠️ Vulnerability Management 
 
-- **[Vulnerability Management Program Implementation](https://github.com/JonathanGribe/vulnerability-management/blob/main/VulnerabilityManagementProject/vulnerability_management_program.md)**
-  
-   --Built a structured vulnerability management workflow using Tenable data and PowerShell automation.
-   
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/JonathanGribe/vulnerability-management/blob/main/ProgrammaticRemediation/vulnerabilityRemediation_powershell.md)**
-- **[Stig Remediations](https://github.com/JonathanGribe/STIGS/blob/main/1_README.md)**
+# Jonathan's IT & IAM Portfolio 🔐
 
-### 🚨 Threat Hunting and Security Operation
+IT professional focused on Identity & Access Management, Active Directory,
+Microsoft Entra ID, and identity automation. This portfolio highlights hands-on
+identity labs, Windows infrastructure projects, automation, and technical documentation.
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JonathanGribe/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (PII Exfiltration)](https://github.com/JonathanGribe/ThreatHuntingScenario_PIIExfiltration)**
-- **[Threat Hunting Scenario - "The Notepad Updater"](https://github.com/JonathanGribe/ThreatHuntingScenario_HostRecon)**
-  
+---
+
+## 1. Identity & Access Management
+
+### Blaze Faction – Microsoft Entra ID Lab
+
+**Project description:**  
+Designed a fictional Microsoft Entra ID environment for a game development
+company to practice cloud identity administration, access management, identity
+security, and employee lifecycle processes.
+
+**Core skills and concepts:**
+- Identity lifecycle management and JML workflows
+- Group-based access and role administration
+- MFA and Conditional Access
+- Identity governance and least privilege
+- Entra ID architecture and documentation
+
+**Skills learned and tools used:**  
+Microsoft Entra ID • Microsoft 365 • Conditional Access • MFA • Dynamic Groups
+• RBAC • CSV Provisioning • Identity Lifecycle Management • Architecture Diagrams
+
+---
+
 ## 2. Active Directory
-- **[Windows Server Basic Environment Project](https://github.com/JonathanGribe/Azure-Active-Directory)**
+
+### Active Directory Identity Lab
+
+**Project description:**  
+Built and configured a Windows Server environment to practice traditional
+enterprise identity administration, account management, directory structure,
+authentication, and access control.
+
+**Core skills and concepts:**
+- Directory and account administration
+- Organizational design and Group Policy
+- Group-based access control
+- Authentication and DNS fundamentals
+- Identity lifecycle and delegated administration
+
+**Skills learned and tools used:**  
+Windows Server 2022 • Active Directory Domain Services • DNS • Group Policy
+• Active Directory Users and Computers • Organizational Units • Security Groups
+
+---
+
+## 3. IAM Automation
+
+### Identity Administration with PowerShell and Microsoft Graph
+
+**Project description:**  
+Created small automation projects for common identity administration tasks
+including provisioning, auditing, reporting, group management, and lifecycle operations.
+
+**Core skills and concepts:**
+- Identity provisioning and lifecycle automation
+- User and group administration
+- Account auditing and reporting
+- API-based identity management
+- Scripting and automation fundamentals
+
+**Skills learned and tools used:**  
+PowerShell • Microsoft Graph • Microsoft Graph PowerShell SDK • Entra ID
+• CSV • JSON • REST APIs • Reporting • Error Handling
+
+---
+
+## 4. Hybrid Identity
+
+### Active Directory and Microsoft Entra Integration Lab
+
+**Project description:**  
+Explored how traditional Active Directory environments integrate with Microsoft
+Entra ID and how identities are managed across on-premises and cloud environments.
+
+**Core skills and concepts:**
+- Hybrid identity architecture
+- Directory synchronization
+- Cloud and on-premises identity relationships
+- Authentication models
+- Identity source-of-authority concepts
+
+**Skills learned and tools used:**  
+Active Directory • Microsoft Entra ID • Microsoft Entra Connect / Cloud Sync
+• Windows Server • Microsoft 365 • Identity Synchronization
+
+---
+
+## 5. Identity Security
+
+### Conditional Access and MFA Lab
+
+**Project description:**  
+Configured and documented identity security controls designed to protect
+accounts and enforce authentication requirements based on users, groups,
+applications, and access conditions.
+
+**Core skills and concepts:**
+- Conditional Access policy design
+- Multi-factor authentication
+- Risk-based access concepts
+- Least privilege and access control
+- Policy testing and validation
+
+**Skills learned and tools used:**  
+Microsoft Entra ID • Conditional Access • MFA • Microsoft Authenticator
+• Security Groups • Identity Security • Access Control
+
+---
+
+## 6. Identity Lifecycle Management
+
+### Joiner / Mover / Leaver Workflow
+
+**Project description:**  
+Designed an identity lifecycle scenario demonstrating how accounts and permissions
+change as employees join an organization, transfer between roles, and leave.
+
+**Core skills and concepts:**
+- Joiner / Mover / Leaver lifecycle
+- Provisioning and deprovisioning
+- Access assignment and removal
+- Group-based authorization
+- Identity governance and least privilege
+
+**Skills learned and tools used:**  
+Microsoft Entra ID • Active Directory • Security Groups • Dynamic Groups
+• PowerShell • Lifecycle Documentation • Access Management
+
+---
+## 7. Other Security Projects
+
+These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered three main areas: vulnerability management, STIG-based system hardening, and threat hunting using security logs and endpoint telemetry. Together, they provided hands-on exposure to identifying weaknesses, applying remediation and configuration controls, and investigating suspicious activity. They represent foundational cybersecurity experience that complements my broader IT and identity-focused work.
+
+- **Vulnerability Management** — Tenable, remediation workflows, PowerShell
+- **STIG Remediation** — Windows hardening and DISA STIG configuration
+- **Threat Hunting** — Microsoft Defender, Azure Log Analytics, KQL
+
+[Visit the Cyber range](https://www.skool.com/cyber-range/about)
 
 
-## 3. Powershell
+<!---------------------------------------------------->
+## 7. Previous Cybersecurity Projects
 
-## 4. Technical Writing
-Link to Journo Portfolio
 
-## 5. Skills
-AD • Entra ID • PowerShell • Python • Azure Log Analytics • SIEM • Vulnerability Management
 
-## 6. Tool Familiarity
+### Vulnerability Management
+
+**Project description:**  
+Built a structured vulnerability management workflow using vulnerability
+scanning data, remediation processes, and automation.
+
+**Core skills and concepts:**
+- Vulnerability identification and prioritization
+- Remediation workflows
+- System hardening
+- Security automation
+
+**Skills learned and tools used:**  
+Tenable • PowerShell • Bash • Windows • Vulnerability Management
+
+---
+
+### STIG Remediation
+
+**Project description:**  
+Practiced applying security configuration standards and remediating Windows
+systems based on DISA STIG guidance.
+
+**Core skills and concepts:**
+- Security baselines
+- System hardening
+- Configuration management
+- Compliance remediation
+
+**Skills learned and tools used:**  
+Windows • PowerShell • DISA STIGs • Security Configuration
+
+---
+
+### Threat Hunting
+
+**Project description:**  
+Completed guided threat-hunting scenarios involving suspicious endpoint activity,
+security telemetry, and log analysis.
+
+**Core skills and concepts:**
+- Threat investigation
+- Log and event analysis
+- Security event correlation
+- Endpoint activity analysis
+
+**Skills learned and tools used:**  
+Microsoft Defender • Azure Log Analytics • KQL • SIEM Concepts
+
+---
+
+## 8. Core Technologies
+
+**Identity & Access Management:**  
+Microsoft Entra ID • Active Directory • Identity Lifecycle Management
+• Conditional Access • MFA • RBAC • Identity Governance
+
+**Microsoft Administration:**  
+Microsoft 365 • Windows Server • Azure • DNS • Group Policy
+
+**Automation & Development:**  
+PowerShell • Microsoft Graph • Python • REST APIs • JSON • CSV
+
+**Security:**  
+Azure Log Analytics • KQL • SIEM Concepts • Vulnerability Management
+
+**Documentation:**  
+Markdown • GitHub • Architecture Diagrams • Process Documentation
+
+---
+
+## Contact
+
+- LinkedIn
+- Email
+
+
 
 ## 📫 Contact
 You can contact me through my LinkedIn:

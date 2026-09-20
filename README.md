@@ -22,20 +22,21 @@ authentication, and access control.
 **Project description:**  
 Designed a fictional Microsoft Entra ID environment for a game development
 company to practice cloud identity administration, access management, identity
-security, and employee lifecycle processes.
+security, and employee lifecycle processes. [Visit the Cyber range](https://www.skool.com/cyber-range/about)
 
 
 ---
 ## 3. Cyber Range Projects
 
-These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered three main areas: vulnerability management, STIG-based system hardening, and threat hunting using security logs and endpoint telemetry. Together, they provided hands-on exposure to identifying weaknesses, applying remediation and configuration controls, and investigating suspicious activity. They represent foundational cybersecurity experience that complements my broader IT and identity-focused work.
+**Project Description**
+These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered two main areas: vulnerability management and threat hunting using security logs and endpoint telemetry. 
 
-- 1. [**Vulnerability Management**](https://github.com/JonathanGribe/vulnerability-management/blob/main/README.md)
+### **1. Vulnerability Management**
    — Tenable, remediation workflows, PowerShell
-- [**STIG Remediation**](https://github.com/JonathanGribe/STIGS/blob/main/1_README.md) — Windows hardening and DISA STIG configuration
-- 2.**Threat Hunting** — Microsoft Defender, Azure Log Analytics, KQL
+ #### STIG Remediation**](https://github.com/JonathanGribe/STIGS/blob/main/1_README.md) — Windows hardening and DISA STIG configuration
+### **2. Threat Hunting** — Microsoft Defender, Azure Log Analytics, KQL
 
-[Visit the Cyber range](https://www.skool.com/cyber-range/about)
+
 
 
 <!---------------------------------------------------->

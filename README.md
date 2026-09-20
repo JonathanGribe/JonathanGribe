@@ -57,7 +57,7 @@ Microsoft Defender • Azure Log Analytics • KQL • SIEM Concepts
 
 ---
 
-## 8. Core Technologies
+## 4. Core Technologies
 
 **Identity & Access Management:**  
 Microsoft Entra ID • Active Directory • Identity Lifecycle Management

@@ -6,7 +6,7 @@ IT professional building toward Identity & Access Management, with hands-on expe
 
 ## 1. Identity & Access Management
 
-### [Blaze Faction – Microsoft Entra ID Lab](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/01_entra_project_1_ReadMe.md)
+### [Microsoft Entra ID Lab](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/01_entra_project_1_ReadMe.md)
 
 **Project description:**  
 Designed a fictional Microsoft Entra ID environment for a game development

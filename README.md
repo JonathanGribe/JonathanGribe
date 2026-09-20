@@ -123,55 +123,7 @@ These projects were completed as part of Josh Madakor’s Cyber Range program an
 
 
 <!---------------------------------------------------->
-## 7. Previous Cybersecurity Projects
 
-
-
-### Vulnerability Management
-
-**Project description:**  
-Built a structured vulnerability management workflow using vulnerability
-scanning data, remediation processes, and automation.
-
-**Core skills and concepts:**
-- Vulnerability identification and prioritization
-- Remediation workflows
-- System hardening
-- Security automation
-
-**Skills learned and tools used:**  
-Tenable • PowerShell • Bash • Windows • Vulnerability Management
-
----
-
-### STIG Remediation
-
-**Project description:**  
-Practiced applying security configuration standards and remediating Windows
-systems based on DISA STIG guidance.
-
-**Core skills and concepts:**
-- Security baselines
-- System hardening
-- Configuration management
-- Compliance remediation
-
-**Skills learned and tools used:**  
-Windows • PowerShell • DISA STIGs • Security Configuration
-
----
-
-### Threat Hunting
-
-**Project description:**  
-Completed guided threat-hunting scenarios involving suspicious endpoint activity,
-security telemetry, and log analysis.
-
-**Core skills and concepts:**
-- Threat investigation
-- Log and event analysis
-- Security event correlation
-- Endpoint activity analysis
 
 **Skills learned and tools used:**  
 Microsoft Defender • Azure Log Analytics • KQL • SIEM Concepts

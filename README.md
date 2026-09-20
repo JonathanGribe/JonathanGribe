@@ -22,19 +22,26 @@ authentication, and access control.
 **Project description:**  
 Designed a fictional Microsoft Entra ID environment for a game development
 company to practice cloud identity administration, access management, identity
-security, and employee lifecycle processes. [Visit the Cyber range](https://www.skool.com/cyber-range/about)
+security, and employee lifecycle processes. 
 
 
 ---
 ## 3. Cyber Range Projects
 
 **Project Description**
-These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered two main areas: vulnerability management and threat hunting using security logs and endpoint telemetry. 
+These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered two main areas: vulnerability management and threat hunting using security logs and endpoint telemetry. [Visit the Cyber range](https://www.skool.com/cyber-range/about)
 
 ### **1. Vulnerability Management**
-   — Tenable, remediation workflows, PowerShell
- #### STIG Remediation**](https://github.com/JonathanGribe/STIGS/blob/main/1_README.md) — Windows hardening and DISA STIG configuration
+ 
+ #### -  [**STIG Remediation**](https://github.com/JonathanGribe/STIGS/blob/main/1_README.md) — Windows hardening and DISA STIG configuration
+ #### - [**Programmatic Remediation**]()
+ #### - [** Vulnerability Management Final Project**]()
+ 
 ### **2. Threat Hunting** — Microsoft Defender, Azure Log Analytics, KQL
+#### - [**Tor Browser usage**]()
+#### - [**Linux based PII Extraction**]()
+#### - [**The "Notepad updater"**]()
+
 
 
 

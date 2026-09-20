@@ -1,21 +1,9 @@
 # Jonathan's IT Portfolio🔐
 IT professional building toward Identity & Access Management, with hands-on experience in Entra ID, Active Directory, Microsoft 365, Azure, and enterprise technical support. This portfolio documents identity labs, Windows infrastructure projects, automation, and technical documentation.
 
-#### Listed below are various projects I have been working on to help my understanding of the field.
 ---
 
-## 1. Identity & Access Management
-
-### [Microsoft Entra ID Lab](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/01_entra_project_1_ReadMe.md)
-
-**Project description:**  
-Designed a fictional Microsoft Entra ID environment for a game development
-company to practice cloud identity administration, access management, identity
-security, and employee lifecycle processes.
-
----
-
-## 2. Active Directory
+## 1. Active Directory
 
 ### [Active Directory Identity Lab](https://github.com/JonathanGribe/Azure-Active-Directory/blob/main/README.md)
 
@@ -25,8 +13,16 @@ Built and configured a Windows Server environment to practice traditional
 enterprise identity administration, account management, directory structure,
 authentication, and access control.
 
----
 
+---
+## 2. Identity & Access Management
+
+### [Microsoft Entra ID Lab](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/01_entra_project_1_ReadMe.md)
+
+**Project description:**  
+Designed a fictional Microsoft Entra ID environment for a game development
+company to practice cloud identity administration, access management, identity
+security, and employee lifecycle processes.
 ## 3. IAM Automation
 
 ### Identity Administration with PowerShell and Microsoft Graph

@@ -113,7 +113,7 @@ These projects were completed as part of Josh Madakor’s Cyber Range program an
 
 - [**Vulnerability Management**](https://github.com/JonathanGribe/vulnerability-management/blob/main/README.md)
    — Tenable, remediation workflows, PowerShell
-- **STIG Remediation** — Windows hardening and DISA STIG configuration
+- [**STIG Remediation**](https://github.com/JonathanGribe/STIGS/blob/main/1_README.md) — Windows hardening and DISA STIG configuration
 - **Threat Hunting** — Microsoft Defender, Azure Log Analytics, KQL
 
 [Visit the Cyber range](https://www.skool.com/cyber-range/about)

@@ -111,7 +111,8 @@ Microsoft Entra ID • Active Directory • Security Groups • Dynamic Groups
 
 These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered three main areas: vulnerability management, STIG-based system hardening, and threat hunting using security logs and endpoint telemetry. Together, they provided hands-on exposure to identifying weaknesses, applying remediation and configuration controls, and investigating suspicious activity. They represent foundational cybersecurity experience that complements my broader IT and identity-focused work.
 
-- **Vulnerability Management** — Tenable, remediation workflows, PowerShell
+- [**Vulnerability Management**](https://github.com/JonathanGribe/vulnerability-management/blob/main/README.md)
+   — Tenable, remediation workflows, PowerShell
 - **STIG Remediation** — Windows hardening and DISA STIG configuration
 - **Threat Hunting** — Microsoft Defender, Azure Log Analytics, KQL
 

@@ -23,7 +23,7 @@ authentication, and access control.
 Designed a fictional Microsoft Entra ID environment for a game development
 company to practice cloud identity administration, access management, identity
 security, and employee lifecycle processes.
-## 3. IAM Automation
+## 2.1. IAM Automation
 
 ### Identity Administration with PowerShell and Microsoft Graph
 
@@ -44,7 +44,7 @@ PowerShell • Microsoft Graph • Microsoft Graph PowerShell SDK • Entra ID
 
 ---
 
-## 4. Hybrid Identity
+## 2.2. Hybrid Identity
 
 ### Active Directory and Microsoft Entra Integration Lab
 
@@ -65,7 +65,7 @@ Active Directory • Microsoft Entra ID • Microsoft Entra Connect / Cloud Sync
 
 ---
 
-## 5. Identity Security
+## 2.3. Identity Security
 
 ### Conditional Access and MFA Lab
 
@@ -87,7 +87,7 @@ Microsoft Entra ID • Conditional Access • MFA • Microsoft Authenticator
 
 ---
 
-## 6. Identity Lifecycle Management
+## 2.4. Identity Lifecycle Management
 
 ### Joiner / Mover / Leaver Workflow
 
@@ -107,7 +107,7 @@ Microsoft Entra ID • Active Directory • Security Groups • Dynamic Groups
 • PowerShell • Lifecycle Documentation • Access Management
 
 ---
-## 7. Other Security Projects
+## 3. Cyber Range Projects
 
 These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered three main areas: vulnerability management, STIG-based system hardening, and threat hunting using security logs and endpoint telemetry. Together, they provided hands-on exposure to identifying weaknesses, applying remediation and configuration controls, and investigating suspicious activity. They represent foundational cybersecurity experience that complements my broader IT and identity-focused work.
 

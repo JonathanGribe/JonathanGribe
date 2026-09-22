@@ -36,15 +36,6 @@ These projects were completed as part of Josh Madakor’s Cyber Range program an
 
 --**See More**
 
-
-
-
- 
-
-
-
-
-
 <!---------------------------------------------------->
 
 

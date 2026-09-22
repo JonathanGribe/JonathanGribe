@@ -34,6 +34,8 @@ security, and employee lifecycle processes.
 
 These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered two main areas: vulnerability management and threat hunting using security logs and endpoint telemetry.
 
+--**See More**
+
 [**Visit the Cyber Range**](https://www.skool.com/cyber-range/about)
 
 ### **1. Vulnerability Management**
@@ -62,20 +64,15 @@ Microsoft Defender • Azure Log Analytics • KQL • SIEM Concepts
 ## 4. Core Technologies
 
 **Identity & Access Management:**  
-Microsoft Entra ID • Active Directory • Identity Lifecycle Management
-• Conditional Access • MFA • RBAC • Identity Governance
+### Technical Skills
 
-**Microsoft Administration:**  
-Microsoft 365 • Windows Server • Azure • DNS • Group Policy
+**Identity & Microsoft:** Entra ID • Active Directory • Microsoft 365 • Azure • Windows Server • IAM • Conditional Access • MFA • RBAC
 
-**Automation & Development:**  
-PowerShell • Microsoft Graph • Python • REST APIs • JSON • CSV
+**Automation & Development:** PowerShell • Microsoft Graph • Python • REST APIs • JSON • CSV
 
-**Security:**  
-Azure Log Analytics • KQL • SIEM Concepts • Vulnerability Management
+**Security & Monitoring:** Azure Log Analytics • KQL • SIEM • Vulnerability Management
 
-**Documentation:**  
-Markdown • GitHub • Architecture Diagrams • Process Documentation
+**Documentation:** GitHub • Markdown • Architecture Diagrams • Technical Documentation
 
 ---
 

@@ -34,7 +34,7 @@ security, and employee lifecycle processes.
 
 These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered two main areas: Vulnerability management and Threat hunting using security logs and endpoint telemetry. 
 
---**See More**
+--[**See More**](https://github.com/JonathanGribe/CyberRange)
 
 <!---------------------------------------------------->
 

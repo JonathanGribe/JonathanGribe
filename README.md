@@ -32,22 +32,14 @@ security, and employee lifecycle processes.
 
 **Project Description:**
 
-These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered two main areas: vulnerability management and threat hunting using security logs and endpoint telemetry.
+These projects were completed as part of Josh Madakor’s Cyber Range program and focused on practical defensive security concepts in lab environments. The work covered two main areas: Vulnerability management and Threat hunting using security logs and endpoint telemetry. 
 
 --**See More**
 
-[**Visit the Cyber Range**](https://www.skool.com/cyber-range/about)
 
-### **1. Vulnerability Management**
+
+
  
- #### -  [**STIG Remediation**](https://github.com/JonathanGribe/STIGS/blob/main/1_README.md) — Windows hardening and DISA STIG configuration
- #### - [**Programmatic Remediation**]()
- #### - [** Vulnerability Management Final Project**]()
- 
-### **2. Threat Hunting** — Microsoft Defender, Azure Log Analytics, KQL
-#### - [**Tor Browser usage**]()
-#### - [**Linux based PII Extraction**]()
-#### - [**The "Notepad updater"**]()
 
 
 

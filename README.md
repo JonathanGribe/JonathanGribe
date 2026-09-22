@@ -13,6 +13,7 @@ Built and configured a Windows Server environment to practice traditional
 enterprise identity administration, account management, directory structure,
 authentication, and access control.
 
+-- **See More...**
 
 ---
 ## 2. Identity & Access Management
@@ -24,6 +25,7 @@ Designed a fictional Microsoft Entra ID environment for a game development
 company to practice cloud identity administration, access management, identity
 security, and employee lifecycle processes. 
 
+**See More...**
 
 ---
 ## 3. Cyber Range Projects

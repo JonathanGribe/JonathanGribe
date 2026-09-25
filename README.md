@@ -25,7 +25,7 @@ Designed a fictional Microsoft Entra ID environment for a game development
 company to practice cloud identity administration, access management, identity
 security, and employee lifecycle processes. 
 
--- **See More...**
+-- [**See More...**](https://github.com/JonathanGribe/EntraID_projects/tree/main/entra_project_2_Authentication)
 
 ---
 ## 3. Cyber Range Projects
